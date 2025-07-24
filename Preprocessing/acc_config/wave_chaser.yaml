@@ -1,0 +1,16 @@
+API_KEY: "AIzaSyDMVvDeq4xHWFpTh5hGRiZoBettBqrSbcs"
+
+CHANNELS:
+  CNN: "UCupvZG-5ko_eiXAupbDfxWw"
+  MSNBC: "UCaXkIU1QidjPwiAYu6GcHjg"
+  FoxNews: "UCXIJgqnII2ZOINSWNOGFThA"
+  thedavidpakmanshow: "UCvixJtaXuNdMPUGdOPcY8Ag"
+  briantylercohen: "UCQANb2YPwAtK-IQJrLaaUFw"
+
+MAX_RESULTS_PER_CHANNEL: 8
+
+VIDEO_FILTERS:
+  MIN_DURATION: 200
+  MAX_DURATION: 1200
+  MIN_VIEWS: 1000
+  MIN_COMMENTS: 10

@@ -1,0 +1,18 @@
+API_KEY: "AIzaSyDMVvDeq4xHWFpTh5hGRiZoBettBqrSbcs"
+
+CHANNELS:
+  Fashion Feed: "UCYWrFKvV9FwgUxTURL6fiZw"
+  # FFChannel_Official: "UC3T5fmgL4Kvk3kG1kF6JFeA"
+  # vittoriaschannel: "UCrOrF7Q4WEZl8c85ke9_5OA"
+  # ciaoitaly4642: "UCYZKE8AlxOR04cz6o0rEUxg"
+  # fashion.herald: "UCUZTUC1jPLw4t9J4jVZl6uA"
+  shiftswim: "UCtdLtIKzgme3iaYy2n7x7eA"
+  Newyorkstyleguide: "UC7NRHbceiQLA5rwzWNdSRCw"
+
+MAX_RESULTS_PER_CHANNEL: 30
+
+VIDEO_FILTERS:
+  MIN_DURATION: 200
+  MAX_DURATION: 3000
+  MIN_VIEWS: 1
+  MIN_COMMENTS: 1
